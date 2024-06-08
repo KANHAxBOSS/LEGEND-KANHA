@@ -81,8 +81,8 @@ def aq_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="๏ ᴍᴏʀᴇ ๏",
-                url="https://t.me/FenuBots",
+                text="๏BOSS๏",
+                url="https://t.me/DEADLY_KANHA",
             ),
         ],
     ]
